@@ -5,7 +5,8 @@ Welcome to the starter files repository for **ECE 657: Fundamentals of Machine L
 ## 📁 Directory Structure
 
 - `assignment2/` – Starter notebook and scaffolding code for Assignment 2  
-- `assignment3/` – Starter notebook and scaffolding code for Assignment 3  
+- `assignment3/` – Starter notebook and scaffolding code for Assignment 3
+- `assignment4/` – Starter notebook and scaffolding code for Assignment 4 
 - `README.md` – You’re here!
 
 ## 🎯 Purpose
