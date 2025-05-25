@@ -1,6 +1,6 @@
-# 📘 ECE 657: Starter Assignment Files
+# 📘 ECE 457B | 657: Starter Assignment Files
 
-Welcome to the starter files repository for **ECE 657: Fundamentals of Machine Learning** at the University of Waterloo. This repository contains the initial materials you’ll need to begin your course assignments.
+Welcome to the starter files repository for **Machine Learning** at the University of Waterloo. This repository contains the initial materials you’ll need to begin your course assignments.
 
 ## 📁 Directory Structure
 
